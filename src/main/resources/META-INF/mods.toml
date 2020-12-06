@@ -1,0 +1,11 @@
+modLoader="javafml" #mandatory
+loaderVersion="[33,)"
+license="IDGAF License"
+authors="Arcaratus" #optional
+
+[[mods]]
+modId="gunz"
+version="${file.jarVersion}"
+displayName="Gunz"
+description='''
+Featuring gunz and lulz'''

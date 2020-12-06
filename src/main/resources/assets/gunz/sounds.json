@@ -1,0 +1,4 @@
+{
+  "panther_shoot": { "sounds": ["gunz:panther_shoot"], "subtitle": "gunz.subtitle.panther_shoot" },
+  "panther_reload": { "sounds": ["gunz:panther_reload"], "subtitle": "gunz.subtitle.panther_reload" }
+}

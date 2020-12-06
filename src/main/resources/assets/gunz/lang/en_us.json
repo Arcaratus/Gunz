@@ -1,0 +1,17 @@
+{
+  "itemGroup.gunz": "Gunz",
+
+  "key.gunz.reload": "Reload",
+
+  "item.gunz.rifle_panther": "Panther",
+
+  "gunz.ammo": "Ammo: ",
+
+  "death.attack.shot": "%1$s was shot by %2$s",
+  "death.attack.shot.item": "%1$s was shot by %2$s using the %3$s",
+  "death.attack.headshot": "%1$s was headshot by %2$s",
+  "death.attack.headshot.item": "%1$s was headshot by %2$s using the %3$s",
+
+  "gunz.subtitle.panther_shoot": "Pew",
+  "gunz.subtitle.panther_reload": "Reloading..."
+}
